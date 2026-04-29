@@ -1,2 +1,2 @@
 # ml-basic-algorithms
-A collection of fundamental machine learning algorithms (Linear Regression, KNN, and etc.) with practical examples and visualizations.
+A collection ml algorithms, which i implemented from the scratch
